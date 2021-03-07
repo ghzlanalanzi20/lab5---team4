@@ -3,7 +3,7 @@ title: "Lab 05 - Nobel laureates"
 output: github_document
   
 ---
-Team Name:  Team 4 , 4
+Team Name:  Team4,4
 
 Team Members - Name and Student ID
 
