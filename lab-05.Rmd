@@ -18,7 +18,7 @@ Team Members - Name and Student ID
 
 
 ```{r setup, include = FALSE}
-knitr::opts_chunk$set(eval = TRUE)
+knitr::opts_chunk$set(eval = false)
 ```
 
 ## Packages
